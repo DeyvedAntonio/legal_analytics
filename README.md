@@ -1,6 +1,6 @@
 # Qual política de acordos deve ser implantada de forma a minimizar as perdas com processos cíveis relacionados a taxas de juros abusivas?
 
-[![](https://img.shields.io/github/license/deyvedantonio/legal_analytics)](https://github.com/DeyvedAntonio/legal_analytics/blob/main/LICENSE)
+[![](https://img.shields.io/github/license/deyvedantonio/legal_analytics)]([https://github.com/DeyvedAntonio/legal_analytics/blob/main/LICENSE](https://github.com/DeyvedAntonio/legal_analytics/blob/main/LICENSE.txt))
 
 ## Sobre o projeto
 Um banco, cujo público alvo são pessoas que buscam financiamento de veículos em São Paulo, gostaria de otimizar seu processo jurídico de defesa. O foco do trabalho são as ações judiciais iniciadas pelos clientes insatisfeitos com as taxas de juros utilizadas no financiamento. Neste banco é muito comum situações do seguinte tipo: Um cliente inicia uma ação judicial dizendo que a taxa de juros pactuada no contrato de financiamento é abusiva. A ação judicial é distribuída em alguma vara cível de uma comarca da grande São Paulo. O banco utiliza alguma estratégia de defesa no processo e aguarda o julgamento do Juiz. Caso perca, o banco deve pagar ao cliente uma indenização, além de arcar com todas as custas da ação judicial.
@@ -10,7 +10,7 @@ Uma forma de minimizar os custos deste passivo seria entrar em um acordo com o c
 
 ## Otimização de Custos de Ações Judiciais
 <div align="left">
-<img src="" width="500px" />
+<img src="https://github.com/DeyvedAntonio/legal_analytics/blob/main/06_Imagens/otimizacao_custos_judiciais.jpg" width="500px" />
 </div>
 
 
